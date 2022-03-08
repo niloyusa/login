@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    padding-top: 25px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: rgb(255, 0, 51);
+    font-size: 400%;
+}
+form{
+    text-align: center;
+    padding: 70px;
+    background-color: rgb(177, 177, 177);
+    margin-top: 10px;
+}
+form input{
+    padding: 10px;
+    width: 50%;
+    
+}
+#size{
+color: darkblue;
+    text-decoration: none;
+    font-size: 20px;
+}

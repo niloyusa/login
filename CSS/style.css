@@ -1,0 +1,49 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: chartreuse;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 100px;
+}
+div form{
+    text-align: center;
+    margin-top: 100px;
+    padding: 5px;
+}
+div form input{
+    padding: 10px;
+    margin: 5px;
+    width: 50%;
+    background-color: rgb(205, 211, 211);
+    color: black;
+
+}
+#one{
+    width: 15%;  
+    margin: 5px;  
+}
+.links{
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+.one{
+    text-decoration: none;
+    color: rgb(29, 214, 214);
+}
+.linksone{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+}
+.two{
+    color: orangered;
+    text-decoration: none;
+}
